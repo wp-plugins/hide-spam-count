@@ -15,3 +15,7 @@ Whenever I visit my site's dashboard, the first thing I see is the bold red Spam
 Instead of wasting time deleting spam comments, I prefer to let Akismet do that automatically, so I don't need to see how many spam comments there are.
 
 This little plugin simply hides that part.
+
+= 1.0 =
+* initial release
+* [more info](http://scribu.net/wordpress/hide-spam-count/hsc-1-0.html)
