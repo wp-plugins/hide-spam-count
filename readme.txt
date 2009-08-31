@@ -16,6 +16,8 @@ Instead of wasting time deleting spam comments, I prefer to let Akismet do that 
 
 This little plugin simply hides that part.
 
+== Changelog ==
+
 = 1.0 =
 * initial release
 * [more info](http://scribu.net/wordpress/hide-spam-count/hsc-1-0.html)
