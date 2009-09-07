@@ -3,7 +3,7 @@ Contributors: scribu
 Donate link: http://scribu.net/paypal
 Tags: dashboard, admin, spam, akismet
 Requires at least: 2.5
-Tested up to: 2.8
+Tested up to: 2.9
 Stable tag: trunk
 
 Hide the annoying spam count from the Dashboard.
@@ -17,6 +17,9 @@ Instead of wasting time deleting spam comments, I prefer to let Akismet do that 
 This little plugin simply hides that part.
 
 == Changelog ==
+
+= 1.0.1 =
+* also remove akismet text from the Rightnow widget
 
 = 1.0 =
 * initial release
